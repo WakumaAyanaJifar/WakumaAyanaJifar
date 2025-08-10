@@ -1,6 +1,4 @@
-Sure! Here's an updated version of your README introduction that includes your PhD admission info and keeps the original professional tone:
 
----
 
 ## Hi there 👋
 
