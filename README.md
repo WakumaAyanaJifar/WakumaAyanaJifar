@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm **Jifar Wakuma Ayana**, a master's student at the University of Science and Technology Beijing, specializing in privacy protection, cryptography, secure computing, and AI privacy. I have recently graduated and received admission offers from three PhD programs: University of Electronic Science and Technology of China (UESTC), University of Science and Technology Beijing (USTB), and Shenzhen University.
+I'm **Jifar Wakuma Ayana**, a graduate with a Master’s degree from the University of Science and Technology Beijing (USTB) and a Bachelor’s degree from the University of Electronic Science and Technology of China (UESTC). I specialize in privacy protection, cryptography, secure computing, and AI privacy. I have also received admission offers for PhD programs from UESTC, USTB, and Shenzhen University.
 
 * 🔭 I’m currently working on:
 
@@ -58,4 +58,6 @@ PyTorch, TensorFlow, Secretflow, SEAL, PySyft, Truffle Suite
 * Academic Achievement Award, UESTC
 * Ethiopia Ministry of Education Betre-Science Scholarship
 
+---
 
+*We learn how to learn how to learn.*
