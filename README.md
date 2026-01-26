@@ -1,6 +1,6 @@
 
 
-## Hi there 👋
+## Hi there 
 
 I'm **Jifar Wakuma Ayana**, a graduate with a Master’s degree from the University of Science and Technology Beijing (USTB) and a Bachelor’s degree from the University of Electronic Science and Technology of China (UESTC). I specialize in privacy protection, cryptography, secure computing, and AI privacy. I have also received admission offers for PhD programs from UESTC, USTB, and Shenzhen University.
 
@@ -34,9 +34,7 @@ I'm **Jifar Wakuma Ayana**, a graduate with a Master’s degree from the Univers
   * Email: [wakexayanajifar01@gmail.com](mailto:wakexayanajifar01@gmail.com)
   * LinkedIn: [Jifar Ayana](https://www.linkedin.com/in/jifar-ayana-a9ab561aa/)
 
-* 😄 Pronouns: He/Him
 
-* ⚡ Fun fact: I speak four languages and enjoy building AI tools for real-world security challenges.
 
 ---
 
