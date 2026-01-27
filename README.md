@@ -56,4 +56,4 @@ PyTorch, TensorFlow, Secretflow, SEAL, PySyft, Truffle Suite
 
 ---
 
-*“We learn how to learn how to learn.”*
+*“Shadows only stay, until light finds its way.”*
