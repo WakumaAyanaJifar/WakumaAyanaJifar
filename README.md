@@ -1,61 +1,59 @@
+## Hi there 👋
 
+I'm **Jifar Wakuma Ayana** — M.Sc. in Information and Communication Engineering from USTB, B.Sc. in Computer Science from UESTC.  
+My research areas are:
 
-## Hi there 
+1. **Cyber–Physical–Social–Thinking (CPST) spaces**  
+2. **Privacy protection & AI privacy**  
+3. **Cryptography & secure computing**  
 
-I'm **Jifar Wakuma Ayana**, a graduate with a Master’s degree from the University of Science and Technology Beijing (USTB) and a Bachelor’s degree from the University of Electronic Science and Technology of China (UESTC). I specialize in privacy protection, cryptography, secure computing, and AI privacy. I have also received admission offers for PhD programs from UESTC, USTB, and Shenzhen University.
-
-* 🔭 I’m currently working on:
-
-  * Fast secure inference with transformer models
-  * Privacy-preserving AI and federated learning
-  * Blockchain and cloud security frameworks
-  * AI agent-based autonomous cybersecurity defense
-
-* 🌱 I’m currently learning:
-
-  * Large language model privacy
-  * GPU-accelerated secure inference
-  * Advanced cryptographic protocols
-
-* 👯 I’m looking to collaborate on:
-
-  * Secure AI systems
-  * Federated learning
-  * Blockchain for privacy
-
-* 💬 Ask me about:
-
-  * Privacy in machine learning
-  * Secure multi-party computation
-  * Web and cloud security
-
-* 📫 How to reach me:
-
-  * Email: [wakexayanajifar01@gmail.com](mailto:wakexayanajifar01@gmail.com)
-  * LinkedIn: [Jifar Ayana](https://www.linkedin.com/in/jifar-ayana-a9ab561aa/)
-
-
+I have received PhD admission offers from **UESTC, USTB, and Shenzhen University**.  
 
 ---
 
-**Skills:**
-Python, C/C++, Java, Matlab, Go, Solidity
-PyTorch, TensorFlow, Secretflow, SEAL, PySyft, Truffle Suite
+### 🔭 Current Work
+- Fast secure inference with transformer models  
+- Privacy-preserving AI & federated learning  
+- Blockchain & cloud security frameworks  
+- AI agent-based autonomous cybersecurity defense  
 
-**Education:**
+### 🌱 Currently Learning
+- Large language model privacy  
+- GPU-accelerated secure inference  
+- Advanced cryptographic protocols  
 
-* M.Sc. in Information and Communication Engineering, USTB (2022–2025)
-* B.Sc. in Computer Science and Technology, UESTC (2018–2022)
-* PhD Admissions: UESTC, USTB, Shenzhen University
+### 👯 Collaboration Interests
+- Secure AI systems  
+- Federated learning  
+- Blockchain for privacy  
 
-**Honors:**
+### 💬 Ask Me About
+- Privacy in machine learning  
+- Secure multi-party computation  
+- Web and cloud security  
 
-* Outstanding Student Honour Certificate, USTB
-* President Scholarship (Full), USTB
-* Mayor Scholarship, Chongqing University
-* Academic Achievement Award, UESTC
-* Ethiopia Ministry of Education Betre-Science Scholarship
+### 📫 Contact
+- Email: [wakexayanajifar01@gmail.com](mailto:wakexayanajifar01@gmail.com)  
+- LinkedIn: [Jifar Ayana](https://www.linkedin.com/in/jifar-ayana-a9ab561aa/)  
 
 ---
 
-*We learn how to learn how to learn.*
+### 🛠 Skills
+Python, C/C++, Java, Matlab, Go, Solidity  
+PyTorch, TensorFlow, Secretflow, SEAL, PySyft, Truffle Suite  
+
+### 🎓 Education
+- **M.Sc. Information and Communication Engineering**, USTB (2022–2025)  
+- **B.Sc. Computer Science and Technology**, UESTC (2018–2022)  
+- PhD Admissions: UESTC, USTB, Shenzhen University  
+
+### 🏆 Honors
+- Outstanding Student Honour Certificate, USTB  
+- President Scholarship (Full), USTB  
+- Mayor Scholarship, Chongqing University  
+- Academic Achievement Award, UESTC  
+- Ethiopia Ministry of Education Betre-Science Scholarship  
+
+---
+
+*“We learn how to learn how to learn.”*
