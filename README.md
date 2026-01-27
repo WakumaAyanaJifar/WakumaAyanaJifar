@@ -45,7 +45,7 @@ PyTorch, TensorFlow, Secretflow, SEAL, PySyft, Truffle Suite
 ### 🎓 Education
 - **M.Sc. Information and Communication Engineering**, USTB (2022–2025)  
 - **B.Sc. Computer Science and Technology**, UESTC (2018–2022)  
-- PhD Admissions: UESTC, USTB, Shenzhen University  
+- PhD Admissions: UESTC, USTB, Shenzhen University (Full Scholarship, 2025)
 
 ### 🏆 Honors
 - Outstanding Student Honour Certificate, USTB  
