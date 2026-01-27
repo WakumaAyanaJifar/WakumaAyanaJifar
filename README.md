@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Jifar Wakuma Ayana** — M.Sc. in Information and Communication Engineering from USTB, B.Sc. in Computer Science from UESTC.  
+I'm **Jifar Wakuma Ayana** — M.Sc. in Information and Communication Engineering from USTB, B.Sc. in Computer Science from University of Electronic Science and Technology of China (UESTC).  
 My research areas are:
 
 1. **Cyber–Physical–Social–Thinking (CPST) spaces**  
