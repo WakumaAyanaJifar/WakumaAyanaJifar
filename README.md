@@ -7,7 +7,7 @@ My research areas are:
 2. **Privacy protection & AI privacy**  
 3. **Cryptography & secure computing**  
 
-I have received PhD admission offers from **UESTC, USTB, and Shenzhen University**.  
+
 
 ---
 
