@@ -6,32 +6,7 @@ My research areas are:
 1. **Cyber–Physical–Social–Thinking (CPST) spaces**  
 2. **Privacy protection & AI privacy**  
 3. **Cryptography & secure computing**  
-
-
-
----
-
-### 🔭 Current Work
-- Fast secure inference with transformer models  
-- Privacy-preserving AI & federated learning  
-- Blockchain & cloud security frameworks  
-- AI agent-based autonomous cybersecurity defense  
-
-### 🌱 Currently Learning
-- Large language model privacy  
-- GPU-accelerated secure inference  
-- Advanced cryptographic protocols  
-
-### 👯 Collaboration Interests
-- Secure AI systems  
-- Federated learning  
-- Blockchain for privacy  
-
-### 💬 Ask Me About
-- Privacy in machine learning  
-- Secure multi-party computation  
-- Web and cloud security  
-
+4. **Integration of safe LLM  with UAV
 ### 📫 Contact
 - Email: [wakexayanajifar01@gmail.com](mailto:wakexayanajifar01@gmail.com)  
 - LinkedIn: [Jifar Ayana](https://www.linkedin.com/in/jifar-ayana-a9ab561aa/)  
