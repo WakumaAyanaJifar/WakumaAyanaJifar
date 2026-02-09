@@ -6,7 +6,7 @@ My research areas are:
 1. **Cyber–Physical–Social–Thinking (CPST) spaces**  
 2. **Privacy protection & AI privacy**  
 3. **Cryptography & secure computing**  
-4. **Integration of safe LLM  with UAV
+4. **Integration of safe LLM  with UAV**
 ### 📫 Contact
 - Email: [wakexayanajifar01@gmail.com](mailto:wakexayanajifar01@gmail.com)  
 - LinkedIn: [Jifar Ayana](https://www.linkedin.com/in/jifar-ayana-a9ab561aa/)  
@@ -20,7 +20,7 @@ PyTorch, TensorFlow, Secretflow, SEAL, PySyft, Truffle Suite
 ### 🎓 Education
 - **M.Sc. Information and Communication Engineering**, USTB (2022–2025)  
 - **B.Sc. Computer Science and Technology**, UESTC (2018–2022)  
-- PhD Admissions: UESTC, USTB, Shenzhen University (Full Scholarship, 2025)
+
 
 ### 🏆 Honors
 - Outstanding Student Honour Certificate, USTB  
