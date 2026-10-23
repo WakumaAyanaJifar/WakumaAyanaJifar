@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Jifar%20Wakuma%20Ayana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Privacy-Preserving%20AI%20%E2%80%A2%20Cryptography%20%E2%80%A2%20Secure%20LLMs%20for%20UAV%20Swarms&descSize=17&descAlignY=58" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Jifar%20Wakuma%20Ayana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20in%20Cyber%E2%80%93Physical%E2%80%93Social%E2%80%93Thinking%20(CPST)%20Spaces&descSize=18&descAlignY=58" alt="banner"/>
 </p>
 
 <!-- Typing headline -->
 <p align="center">
   <a href="https://github.com/WakumaAyanaJifar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Researcher+in+Privacy-Preserving+AI+%F0%9F%94%90;Secure+LLM+Inference+with+MPC+%2B+Differential+Privacy;Safe+LLMs+%C3%97+UAV+Swarms+%F0%9F%9A%81;Cyber%E2%80%93Physical%E2%80%93Social%E2%80%93Thinking+(CPST)+Spaces" alt="typing headline"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=AI+for+Cyber%E2%80%93Physical%E2%80%93Social%E2%80%93Thinking+Spaces+%F0%9F%8C%90;Bridging+Machines%2C+People+and+Thought+with+AI;Intelligent+CPST+Systems+%E2%86%92+Real-World+Applications;Background%3A+AI+Privacy+%C2%B7+Cryptography+%C2%B7+LLM+%C3%97+UAV" alt="typing headline"/>
   </a>
 </p>
 
@@ -21,27 +21,47 @@
 
 ## 👋 About Me
 
-I'm **Jifar Wakuma Ayana**, a researcher working where **AI, privacy, and cryptography** meet.
-I build systems that let large language models and autonomous drone swarms be **useful without leaking what they know**.
+I'm **Jifar Wakuma Ayana**, a researcher studying how **Artificial Intelligence can be integrated into Cyber–Physical–Social–Thinking (CPST) spaces**, the connected hyperspace of devices, physical environments, people and human thinking, and how to apply it to real-world problems.
+My Master's work in **AI privacy, cryptography and safe LLMs for UAV swarms** gives that research a foundation in trustworthy, secure systems.
 
 ```yaml
 name:        Jifar Wakuma Ayana
 education:
   - M.Sc. Information & Communication Engineering — USTB (2022–2025)
   - B.Sc. Computer Science & Technology — UESTC (2018–2022)
-research:
-  - Cyber–Physical–Social–Thinking (CPST) spaces
+main_research:
+  - AI in Cyber–Physical–Social–Thinking (CPST) spaces & its applications
+masters_background:
   - Privacy protection & AI privacy
   - Cryptography & secure computing (MPC, HE, DP)
   - Safe LLM integration with UAV swarms
-currently:     Building privacy-preserving LLM pipelines for swarm robotics
+currently:     Exploring how AI perceives, reasons and acts across CPST spaces
 open_to:       Research collaborations · PhD / research positions · Open-source privacy tooling
 motto:         "Shadows only stay, until light finds its way."
 ```
 
 ---
 
-## 🔬 Research Focus
+## 🔬 Main Research: AI in CPST Spaces
+
+> **How can AI connect and reason across the cyber, physical, social and thinking dimensions, and turn that into real applications?**
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">💻<br/><b>Cyber</b><br/><sub>Networks, data, digital twins</sub></td>
+    <td width="25%" align="center" valign="top">🏙<br/><b>Physical</b><br/><sub>Sensors, IoT, UAVs, environments</sub></td>
+    <td width="25%" align="center" valign="top">👥<br/><b>Social</b><br/><sub>People, communities, interactions</sub></td>
+    <td width="25%" align="center" valign="top">🧠<br/><b>Thinking</b><br/><sub>Cognition, knowledge, reasoning</sub></td>
+  </tr>
+</table>
+
+- 🤖 **AI as the bridge:** models that perceive, reason and act across all four spaces together
+- 🚀 **Applications:** applying intelligent CPST systems to smart environments, autonomous systems and human-centred services
+- 🛡 **Trustworthy by design:** bringing privacy and security from my Master's work into CPST intelligence
+
+---
+
+## 🧩 Master's Background
 
 <table>
   <tr>
@@ -60,8 +80,8 @@ motto:         "Shadows only stay, until light finds its way."
       Homomorphic encryption (SEAL), MPC frameworks (SecretFlow), federated learning (PySyft) and blockchain (Solidity).
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 CPST Spaces</h3>
-      Cyber–Physical–Social–Thinking hyperspace, where privacy has to hold across devices, people and the reasoning systems around them.
+      <h3>🛡 Privacy in CPST</h3>
+      Protecting personal and behavioural data as it moves between devices, people and the AI systems that reason over it.
     </td>
   </tr>
 </table>
@@ -162,7 +182,7 @@ motto:         "Shadows only stay, until light finds its way."
 
 ## 🤝 Let's Collaborate
 
-I'm open to **research collaborations** in privacy-preserving machine learning, secure LLM deployment, and trustworthy autonomous systems. If any of that overlaps with your work, email me or connect on LinkedIn.
+I'm open to **research collaborations** on AI for CPST spaces and its applications, as well as privacy-preserving machine learning and trustworthy autonomous systems. If any of that overlaps with your work, email me or connect on LinkedIn.
 
 <p align="center">
   <i>“Shadows only stay, until light finds its way.”</i>
